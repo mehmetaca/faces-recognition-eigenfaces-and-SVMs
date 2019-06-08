@@ -1,5 +1,4 @@
-Summary
-=======
+# Summary
 
 This dataset (ml-latest-small) describes 5-star rating and free-text tagging activity from [MovieLens](http://movielens.org), a movie recommendation service. It contains 100004 ratings and 1296 tag applications across 9125 movies. These data were created by 671 users between January 09, 1995 and October 16, 2016. This dataset was generated on October 17, 2016.
 
@@ -12,8 +11,7 @@ This is a *development* dataset. As such, it may change over time and is not an 
 This and other GroupLens data sets are publicly available for download at <http://grouplens.org/datasets/>.
 
 
-Usage License
-=============
+# Usage License
 
 Neither the University of Minnesota nor any of the researchers involved can guarantee the correctness of the data, its suitability for any particular purpose, or the validity of results based on the use of the data set. The data set may be used for any research purposes under the following conditions:
 
@@ -28,16 +26,14 @@ In no event shall the University of Minnesota, its affiliates or employees be li
 If you have any further questions or comments, please email <grouplens-info@umn.edu>
 
 
-Citation
-========
+# Citation
 
 To acknowledge use of the dataset in publications, please cite the following paper:
 
 > F. Maxwell Harper and Joseph A. Konstan. 2015. The MovieLens Datasets: History and Context. ACM Transactions on Interactive Intelligent Systems (TiiS) 5, 4, Article 19 (December 2015), 19 pages. DOI=<http://dx.doi.org/10.1145/2827872>
 
 
-Further Information About GroupLens
-===================================
+#Further Information About GroupLens
 
 GroupLens is a research group in the Department of Computer Science and Engineering at the University of Minnesota. Since its inception in 1992, GroupLens's research projects have explored a variety of fields including:
 
@@ -50,8 +46,8 @@ GroupLens is a research group in the Department of Computer Science and Engineer
 GroupLens Research operates a movie recommender based on collaborative filtering, MovieLens, which is the source of these data. We encourage you to visit <http://movielens.org> to try it out! If you have exciting ideas for experimental work to conduct on MovieLens, send us an email at <grouplens-info@cs.umn.edu> - we are always interested in working with external collaborators.
 
 
-Content and Use of Files
-========================
+#Content and Use of Files
+
 
 Formatting and Encoding
 -----------------------
